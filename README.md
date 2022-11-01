@@ -4,8 +4,6 @@ Olá! Eu sou o Wesley Silva<br>
 
 ##
 
-
-- 🌱 Cursando Desenvolvimento de Software pela Fatec zona Sul 
 - 📫 contate-me no email: ws78009@gmail.com
 
  ##
