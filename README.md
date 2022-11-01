@@ -22,10 +22,10 @@ Olá! Eu sou o Wesley Silva
 
 ##
 <div>
-<a href="https://www.linkedin.com/m/in/wesley-silva-33624b17a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/m/in/wesley-silva-33624b17a" target="_blank"><img align="center"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
 
-![Snake animation](https://github.com/WesleyS08)
+![Snake animation](https://github.com/WesleyS08/WesleyS08/blob/output/github-contribution-grid-snake.svg)
  
