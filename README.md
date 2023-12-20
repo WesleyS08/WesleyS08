@@ -63,7 +63,3 @@ Desde o desenvolvimento backend até o frontend, sou apaixonado por descobrir co
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
-##
-
-![Snake animation](https://github.com/WesleyS08/WesleyS08/blob/output/github-contribution-grid-snake.svg)
