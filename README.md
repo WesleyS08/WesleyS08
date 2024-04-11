@@ -62,4 +62,19 @@ Desde o desenvolvimento backend até o frontend, sou apaixonado por descobrir co
 
   
   
+
+
+
+  
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyS08&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyS08&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=WesleyS08&&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
