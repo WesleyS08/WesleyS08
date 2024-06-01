@@ -4,7 +4,7 @@
 
 <p align="center"> <br><br>Eu ❤️ resolver grandes desafios por meio da tecnologia.
 <br>
-Desde o desenvolvimento backend até o frontend, sou apaixonado por descobrir coisas novas e utilizá-las para criar soluções de alta qualidade. Atualmente, sou um desenvolvedor full stack de nível júnior, focado em desenvolvimento web e banco de dados.
+Olá! Eu sou Wesley, um desenvolvedor apaixonado por resolver desafios por meio da tecnologia. Construindo uma sólida experiência em desenvolvimento full stack, estou sempre em busca de novas oportunidades para inovar e crescer profissionalmente
  <br><br>
 &nbsp;
 
@@ -31,7 +31,7 @@ Desde o desenvolvimento backend até o frontend, sou apaixonado por descobrir co
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/WesleyS08/WesleyS08/assets/113936684/d6a8d606-5474-4f4a-92a8-40402f034e75" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Sistemas Operacionais:
 ![Windows ](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
@@ -45,7 +45,6 @@ Desde o desenvolvimento backend até o frontend, sou apaixonado por descobrir co
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 
 #### Designer:
-
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 &nbsp;
@@ -59,22 +58,14 @@ Desde o desenvolvimento backend até o frontend, sou apaixonado por descobrir co
 <a href="https://www.linkedin.com/in/wesley-silva-33624b17a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
-
-  
-  
-
+## Visite o meu portfólio em [link](https://wesleys08.github.io/my-portfolio2/)
+<img align="center" style="margin-bottom:100px" width=100% alt="prévio" src="https://github.com/WesleyS08/WesleyS08/assets/113936684/fe90937b-641f-473d-a6ed-32638001e2a3">&nbsp;&nbsp;
 
 
-  
+## Explorando Minhas Conquistas: Troféus de Contribuição
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WesleyS08&theme=juicyfresh&row=1&column=6&margin-w=15&margin-h=15" />
+</div>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyS08&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyS08&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=WesleyS08&&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
