@@ -67,5 +67,6 @@ Olá! Eu sou Wesley, um desenvolvedor apaixonado por resolver desafios por meio 
   <img src="https://github-profile-trophy.vercel.app/?username=WesleyS08&theme=juicyfresh&row=1&column=6&margin-w=15&margin-h=15" />
 </div>&nbsp;&nbsp;&nbsp;&nbsp;
 
+ ##
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+![snake gif](https://github.com/WesleyS08/WesleyS08/blob/output/github-contribution-grid-snake.gif)
