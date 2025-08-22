@@ -12,7 +12,6 @@
   🎯 Objetivo: gerar impacto real com código claro, performático e escalável.
 </p>
 
-<!-- BADGES / QUICK INFO -->
 <p align="center">
   <a href="https://www.linkedin.com/in/wesley-silva-dos-santos-33624b17a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-6E57DD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -21,12 +20,10 @@
     <img src="https://img.shields.io/badge/Gmail-6E57DD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wesleys08.github.io/my-portfolio2/" target="_blank">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visite!-6E57DD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
-
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visite!-6E57DD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=WesleyS08&style=for-the-badge&color=6E57DD" alt="Profile views"/>
 </p>
-
 ---
 
 ## 🔧 Stack & Ferramentas
