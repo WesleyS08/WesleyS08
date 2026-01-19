@@ -1,106 +1,184 @@
-<!-- HERO / TYPING -->
-<p align="center">
-  <a href="https://git.io/typing-svg" aria-label="Typing banner">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6E57DD&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+sou+o+Wesley!;Desenvolvedor+em+forma%C3%A7%C3%A3o;Focado+em+Full+Stack;Apaixonado+por+inova%C3%A7%C3%A3o+e+produtividade" alt="Typing SVG - Wesley" />
-  </a>
-</p>
+**<div align="center">
 
-<!-- SUBHEAD -->
-<p align="center">
-  💡 Transformando grandes desafios em <strong>soluções tecnológicas</strong>, um commit por vez.<br/>
-  🚀 Construindo experiências digitais com foco em <strong>Full Stack</strong> e boas práticas.<br/>
-  🎯 Objetivo: gerar impacto real com código claro, performático e escalável.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=WESLEY%20Silva&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descAlignY=55&descSize=25" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/wesley-silva-dos-santos-33624b17a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6E57DD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ws78009@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6E57DD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wesleys08.github.io/my-portfolio2/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visite!-6E57DD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=WesleyS08&style=for-the-badge&color=6E57DD" alt="Profile views"/>
-</p>
----
-
-## 🔧 Stack & Ferramentas
-
-
-#### Principais
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)&nbsp;
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)&nbsp;
-
-
-
-<img src="https://github.com/WesleyS08/WesleyS08/assets/113936684/d6a8d606-5474-4f4a-92a8-40402f034e75" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Sistemas Operacionais:
-![Windows ](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![UBUNTU ](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![LINUX ](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-)&nbsp;
-
-#### Databases:
-
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)&nbsp;
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)&nbsp;
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)&nbsp;
-
-
-#### Designer:
-![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-&nbsp;
-&nbsp;
-
-#### Code Editor:
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)&nbsp;
-[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)&nbsp;
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-
-&nbsp;
-&nbsp;
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/WesleyS08">
-    <img src="https://github-readme-stats.vercel.app/api?username=WesleyS08&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" height="180" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/WesleyS08">
-    <img src="https://streak-stats.demolab.com?user=WesleyS08&theme=midnight-purple&hide_border=true&border_radius=12" height="180" alt="GitHub Streak"/>
-  </a>
-</p>
-
----
-
-## 🏆 Conquistas
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WesleyS08&theme=juicyfresh&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
----
-
-## 📈 Atividade Recente
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WesleyS08&theme=react-dark&hide_border=true" alt="Gráfico de atividade"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Transformando+Ideias+em+C%C3%B3digo;%E2%9C%A8+Criando+Experi%C3%AAncias+Digitais+%C3%9Anicas;%F0%9F%92%BB+Desenvolvedor+Full+Stack+Apaixonado)](https://git.io/typing-svg)
+
 </div>
 
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E57DD&height=120&section=footer&text=Até%20logo!%20&fontSize=30&fontColor=fff&animation=fadeIn" alt="footer"/>
+
+<br>
+
+<!-- Apresentação Impactante -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **SOBRE MIM**
+
+```typescript
+const wesley = {
+    nome: "Wesley Silva",
+    cargo: "Desenvolvedor Full Stack",
+    localização: "São Paulo, Brasil 🇧🇷",
+    
+    focoAtual: [
+        "Arquitetura de Software Escalável",
+        "Cloud Computing & DevOps",
+        "UI/UX Design & Prototipagem",
+        "Inteligência Artificial & Machine Learning"
+    ],
+    
+    mentalidade: {
+        aprendizadoConstante: true,
+        códigoLimpo: true,
+        trabalhoEmEquipe: true,
+        inovaçãoSempre: true
+    },
+    
+    hobbies: ["🎮 Gaming", "📚 Leitura Tech", "🎵 Música"],
+    
+    fraseFavorita: "Não existe código perfeito, apenas código melhor que ontem."
+};
+```
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **ARSENAL TECNOLÓGICO**
+
+<div align="center">
+
+### 🎨 **Frontend Development**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,mui&theme=dark" />
 </p>
+
+### ⚙️ **Backend Development**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,java,spring,fastapi&theme=dark" />
+</p>
+
+### 🗄️ **Databases & Cloud**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase,docker&theme=dark" />
+</p>
+
+### 🛠️ **Tools & Workflow**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma,postman,linux,bash&theme=dark" />
+</p>
+
+</div>
+
+<br>
+
+## 📊 **ESTATÍSTICAS DETALHADAS**
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WesleyS08&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&ring_color=8A2BE2" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WesleyS08&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=FF6B6B&currStreakLabel=8A2BE2&sideLabels=FFFFFF" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyS08&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&langs_count=10" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=WesleyS08&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF" />
+</div>
+
+<br>
+
+## 🏆 **CONQUISTAS & TROFÉUS**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WesleyS08&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage" />
+</div>
+
+<br>
+
+## 🌟 **PROJETOS EM DESTAQUE**
+
+<div align="center">
+
+| 🚀 **Projeto** | 💻 **Stack** | ⭐ **Stars** | 📝 **Descrição** |
+|:---:|:---:|:---:|:---:|
+| [**Portfolio 2.0**](https://github.com/WesleyS08/my-portfolio2) | React, TypeScript, Tailwind | ![Stars](https://img.shields.io/github/stars/WesleyS08/my-portfolio2?style=flat-square&color=8A2BE2) | Site portfólio moderno com animações |
+
+</div>
+
+<div align="center">
+  
+[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=WesleyS08&repo=my-portfolio2&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF)](https://github.com/WesleyS08/my-portfolio2)
+[![React Card](https://github-readme-stats.vercel.app/api/pin/?username=WesleyS08&repo=projeto-react&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF)](https://github.com/WesleyS08/projeto-react)
+
+</div>
+
+<br>
+
+## 📈 **GRÁFICO DE CONTRIBUIÇÕES**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WesleyS08&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br>
+
+
+
+
+
+<br>
+
+## 🌐 **CONECTE-SE COMIGO**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/wesley-silva-dos-santos-33624b17a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Conheça_Meu_Trabalho-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=8A2BE2)](https://wesleys08.github.io/my-portfolio2/)
+[![Email](https://img.shields.io/badge/Email-Entre_em_Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:ws78009@gmail.com)
+
+</div>
+
+<br>
+
+
+<br>
+
+## 📊 **MÉTRICAS DETALHADAS**
+
+<div align="center">
+
+<a href="https://github.com/WesleyS08">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyS08&theme=radical"/>
+</a>
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyS08&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WesleyS08&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WesleyS08&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyS08&theme=radical" />
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### 🌟 **"Código é poesia, e cada desenvolvedor é um poeta digital"** 🌟
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer&text=Obrigado+pela+visita!&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
+
+![Visitor Count](https://profile-counter.glitch.me/WesleyS08/count.svg)
+
+**⭐ Se você gostou do meu perfil, deixe uma estrela nos meus repositórios!**
+
+*Última atualização: Janeiro 2025*
+
+</div>
